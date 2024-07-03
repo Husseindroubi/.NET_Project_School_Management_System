@@ -1,1 +1,2 @@
-# Project_SchoolManagementSystem
+ASP.NET Core MVC Project : School Management System
+
