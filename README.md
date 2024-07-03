@@ -1,7 +1,7 @@
-ASP.NET Core MVC Project : School Management System
+Final Coders.Bay ASP.NET Core MVC Project : School Management System
 
-I have used : 
-- C# & .NET
+In this Repository i have used many Technologies include: 
+- C#/.NET using Visual Studio 2022
 - Bootstrap
 - TinyMCE
 - MS SQL Server (SSMS)
